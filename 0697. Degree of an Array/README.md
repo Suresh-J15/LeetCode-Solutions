@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Difficulty-Easy-blue" alt="Difficulty: Easy">
         <div><table type="1"><th>Array</th><th>Hash-Table</th></table></div><br>
         <div><p style="color: black; font-size: 18px; text-align: left; background-color: lightgray; padding: 20px; border: 1px solid #ccc; font-family: Arial, Helvetica, sans-serif" >
-            Given a non-empty array of non-negative integers nums, the <strong>degree</strong> of this array is defined as the maximum frequency of any one of its elements.<br>
+            Given a non-empty array of non-negative integers nums, the <strong>degree</strong> of this array is defined as the maximum frequency of any one of its elements.<br><br>
             Your task is to find the smallest possible length of a (contiguous) subarray of nums, that has the same degree as nums.<br>
         </p></div>
         <br><br>
